@@ -1,5 +1,9 @@
 **Three-Part Framework for Data Privacy** 
 
+* Note: This paper is being developed as part of the MIT Human Dynamics Lab [Clinical Legal Research Project](https://github.com/LegalScience/LegalClinic/blob/master/2014/LinaKaisey/ClinicalInternshipPlan.md) 
+
+---
+
 
 # 1. Introduction and Underlying Principles
 
